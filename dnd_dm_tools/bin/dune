@@ -1,0 +1,4 @@
+(executable
+ (public_name dnd_dm_tools)
+ (name main)
+ (libraries dnd_dm_tools))
